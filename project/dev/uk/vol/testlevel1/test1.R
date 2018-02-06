@@ -1,6 +1,6 @@
-testign
-testing on git 
 if(condition)
 {
 	doSth()
+}
+else{
 }
